@@ -6,8 +6,8 @@ Utilizando el fichero monumentos.xml, crea distintos programas en python, utiliz
 
 2) Programa que cuenta todos los monumentos.
 
-3) Introducir una categoria por teclado y busca en el fichero cuantos monumentos tienen esa categoria.
+3) Introducir una categoria por teclado y muestra los monumentos que tienen esa categoria.
 
-4) Introducir por teclado un nombre de monumentos y mostrar por pantalla la localización y el identificador de ese monumento.
+4) Introducir un nombre de monumento por teclado y mostrar el numero de telefono y la pagina web.
 
 5) Mostrar en pantalla todos los monumentos con las categorias que tiene.
